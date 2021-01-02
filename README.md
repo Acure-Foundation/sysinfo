@@ -1,2 +1,3 @@
 # sysinfo
-Get information about system
+Get information about Linux system
+`python sysinfo.py`
